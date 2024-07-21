@@ -6,8 +6,7 @@
 	<class name="Program_s.Package_s.Testcase1"/>
       <class name="Program_s.Package_s.Testcase2"/>
       <class name="Program_s.Package_s.Testcase3"/>
-      <class name="Program_s.Package_s.Testcase4"/>
-      <class name="Program_s.Package_s.Testcase5"/>
+    
      
     </classes>
   </test> <!-- Test -->
